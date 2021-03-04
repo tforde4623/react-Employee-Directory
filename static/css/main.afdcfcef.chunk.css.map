@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Button/index.css"],"names":[],"mappings":"AAAA,OACE,WACF","file":"main.afdcfcef.chunk.css","sourcesContent":["button {\n  margin: 10px;\n}"]}
